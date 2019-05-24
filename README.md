@@ -1,2 +1,3 @@
-# swapify
-Beautiful web app focused on UX.
+# Swapify
+
+## WebApp focused on UX using Spotify's API.
